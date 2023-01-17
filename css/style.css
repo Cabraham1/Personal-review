@@ -1,0 +1,29 @@
+#main{
+  width: 100%;
+  height: auto;
+  font-family: 'Quicksand';
+
+}
+
+#image{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 80%;
+ max-width: 80%;
+ height: auto;
+}
+
+#title{
+  text-align: center;
+}
+
+#subtitle{
+  text-align: center;
+}
+
+.section{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #EEEEEE;
+}
